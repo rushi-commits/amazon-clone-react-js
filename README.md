@@ -4,9 +4,6 @@
 
 This repository contains an Amazon Clone with React, Tailwind CSS and Redux.
 
-## YouTube
-
-[Watch the Tutorial](https://youtu.be/pnnblIo1iO0)
 
 ## Features
 
@@ -37,7 +34,7 @@ Node 14.x Version
 ## Cloning the repository
 
 ```shell
-git clone https://github.com/JonnyDavies/amazon-clone-frontend.git
+git clone https://github.com/JonnyDavies/amazon-clone-react-js.git
 ```
 
 ## Start the app
